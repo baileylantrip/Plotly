@@ -5,7 +5,9 @@ We have been tasked with helping Roza complete a project for Improbable Beef, a 
 ### Deliverable 1: Create a Horizontal Bar Chart
 Created a horizonatal bar chart to display sample_values, otu_ids, and implemted a hover text effect to the bars using otu_labels. 
 
-- The bar chart was created using the buildCharts(); funtion and was written to display the the data for the test subject selcted in the dropdown menu. ![](resources/menu.png)
+- The bar chart was created using the buildCharts(); funtion and was written to display the the data for the test subject selcted in the dropdown menu. 
+
+![](resources/menu.png)
 ![](resources/bar.png)
 
 ### Deliverable 2: Create a Bubble Chart
